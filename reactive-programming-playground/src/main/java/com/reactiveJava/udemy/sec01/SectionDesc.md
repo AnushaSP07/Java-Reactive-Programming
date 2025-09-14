@@ -11,7 +11,7 @@ Publisher
     - Gives customer email address
  Subscription
  Subscriber
-    - is intrested in the customer email address so that it can send some promotional emails
+    - is interested in the customer email address so that it can send some promotional emails
 
 
 Note:
